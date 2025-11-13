@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2025-11-13T09:15:32.203219+03" version="8.16.1">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">47902</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">40246</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">4</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">1901.1406844106464</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">1901.1406844106464</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">openslideload</value>
+    </property>
+    <property>
+      <name>slide-level</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>aperio.AppMag</name>
+      <value type="VipsRefString">20</value>
+    </property>
+    <property>
+      <name>aperio.BigTIFF</name>
+      <value type="VipsRefString">true</value>
+    </property>
+    <property>
+      <name>aperio.CalibrationAverageBlue</name>
+      <value type="VipsRefString">174.84729003906</value>
+    </property>
+    <property>
+      <name>aperio.CalibrationAverageGreen</name>
+      <value type="VipsRefString">168.87028503418</value>
+    </property>
+    <property>
+      <name>aperio.CalibrationAverageRed</name>
+      <value type="VipsRefString">145.28970336914</value>
+    </property>
+    <property>
+      <name>aperio.Date</name>
+      <value type="VipsRefString"></value>
+    </property>
+    <property>
+      <name>aperio.Exposure Scale</name>
+      <value type="VipsRefString">0.000001</value>
+    </property>
+    <property>
+      <name>aperio.Exposure Time</name>
+      <value type="VipsRefString">8</value>
+    </property>
+    <property>
+      <name>aperio.Filtered</name>
+      <value type="VipsRefString">3</value>
+    </property>
+    <property>
+      <name>aperio.Focus Offset</name>
+      <value type="VipsRefString">-0.500000</value>
+    </property>
+    <property>
+      <name>aperio.Gamma</name>
+      <value type="VipsRefString">2.2</value>
+    </property>
+    <property>
+      <name>aperio.ICC Profile</name>
+      <value type="VipsRefString">Segue_v3</value>
+    </property>
+    <property>
+      <name>aperio.Left</name>
+      <value type="VipsRefString">22.306797027588</value>
+    </property>
+    <property>
+      <name>aperio.MPP</name>
+      <value type="VipsRefString">0.5260</value>
+    </property>
+    <property>
+      <name>aperio.OriginalAppMag</name>
+      <value type="VipsRefString">40</value>
+    </property>
+    <property>
+      <name>aperio.OriginalHeight</name>
+      <value type="VipsRefString">84811</value>
+    </property>
+    <property>
+      <name>aperio.OriginalMPP</name>
+      <value type="VipsRefString">0.2630</value>
+    </property>
+    <property>
+      <name>aperio.OriginalWidth</name>
+      <value type="VipsRefString">100221</value>
+    </property>
+    <property>
+      <name>aperio.Rack</name>
+      <value type="VipsRefString">3</value>
+    </property>
+    <property>
+      <name>aperio.Scan Warning</name>
+      <value type="VipsRefString">NONE</value>
+    </property>
+    <property>
+      <name>aperio.ScanScope ID</name>
+      <value type="VipsRefString"></value>
+    </property>
+    <property>
+      <name>aperio.ScannerType</name>
+      <value type="VipsRefString">GT450 DX</value>
+    </property>
+    <property>
+      <name>aperio.SessionMode</name>
+      <value type="VipsRefString">PDX</value>
+    </property>
+    <property>
+      <name>aperio.Slide</name>
+      <value type="VipsRefString">11</value>
+    </property>
+    <property>
+      <name>aperio.StripeWidth</name>
+      <value type="VipsRefString">4096</value>
+    </property>
+    <property>
+      <name>aperio.Time</name>
+      <value type="VipsRefString"></value>
+    </property>
+    <property>
+      <name>aperio.Time Zone</name>
+      <value type="VipsRefString"></value>
+    </property>
+    <property>
+      <name>aperio.Top</name>
+      <value type="VipsRefString">43.706665039062</value>
+    </property>
+    <property>
+      <name>openslide.associated.95805x80492.height</name>
+      <value type="VipsRefString">768</value>
+    </property>
+    <property>
+      <name>openslide.associated.95805x80492.width</name>
+      <value type="VipsRefString">914</value>
+    </property>
+    <property>
+      <name>openslide.associated.macro.height</name>
+      <value type="VipsRefString">591</value>
+    </property>
+    <property>
+      <name>openslide.associated.macro.width</name>
+      <value type="VipsRefString">1466</value>
+    </property>
+    <property>
+      <name>openslide.associated.thumbnail.height</name>
+      <value type="VipsRefString">768</value>
+    </property>
+    <property>
+      <name>openslide.associated.thumbnail.width</name>
+      <value type="VipsRefString">914</value>
+    </property>
+    <property>
+      <name>openslide.comment</name>
+      <value type="VipsRefString">Aperio Image Library v12.4.7 
+100221x84811 [1374,4319 95805x80492] (256x256) -&gt; 47902x40246 JPEG/RGB Q=70;Aperio Leica Biosystems GT450 DX v1.2.4 
+100221x84811 [0,0,100221x84811] (256x256) JPEG/YCC Q=91|CalibrationAverageBlue = 174.84729003906|CalibrationAverageGreen = 168.87028503418|CalibrationAverageRed = 145.28970336914|Date = |Exposure Scale = 0.000001|Exposure Time = 8|Filtered = 3|Focus Offset = -0.500000|Gamma = 2.2|Left = 22.306797027588|Rack = 3|ScanScope ID = |ScannerType = GT450 DX|SessionMode = PDX|Slide = 11|StripeWidth = 4096|Time = |Time Zone = |Top = 43.706665039062|Scan Warning = NONE|BigTIFF = true|OriginalWidth = 100221|OriginalHeight = 84811|OriginalAppMag = 40|AppMag = 20|OriginalMPP = 0.2630|MPP = 0.5260|ICC Profile = Segue_v3</value>
+    </property>
+    <property>
+      <name>openslide.icc-size</name>
+      <value type="VipsRefString">13113264</value>
+    </property>
+    <property>
+      <name>openslide.level-count</name>
+      <value type="VipsRefString">3</value>
+    </property>
+    <property>
+      <name>openslide.level[0].downsample</name>
+      <value type="VipsRefString">1</value>
+    </property>
+    <property>
+      <name>openslide.level[0].height</name>
+      <value type="VipsRefString">40246</value>
+    </property>
+    <property>
+      <name>openslide.level[0].tile-height</name>
+      <value type="VipsRefString">256</value>
+    </property>
+    <property>
+      <name>openslide.level[0].tile-width</name>
+      <value type="VipsRefString">256</value>
+    </property>
+    <property>
+      <name>openslide.level[0].width</name>
+      <value type="VipsRefString">47902</value>
+    </property>
+    <property>
+      <name>openslide.level[1].downsample</name>
+      <value type="VipsRefString">4.0001829010053296</value>
+    </property>
+    <property>
+      <name>openslide.level[1].height</name>
+      <value type="VipsRefString">10061</value>
+    </property>
+    <property>
+      <name>openslide.level[1].tile-height</name>
+      <value type="VipsRefString">256</value>
+    </property>
+    <property>
+      <name>openslide.level[1].tile-width</name>
+      <value type="VipsRefString">256</value>
+    </property>
+    <property>
+      <name>openslide.level[1].width</name>
+      <value type="VipsRefString">11975</value>
+    </property>
+    <property>
+      <name>openslide.level[2].downsample</name>
+      <value type="VipsRefString">16.003531633453541</value>
+    </property>
+    <property>
+      <name>openslide.level[2].height</name>
+      <value type="VipsRefString">2515</value>
+    </property>
+    <property>
+      <name>openslide.level[2].tile-height</name>
+      <value type="VipsRefString">256</value>
+    </property>
+    <property>
+      <name>openslide.level[2].tile-width</name>
+      <value type="VipsRefString">256</value>
+    </property>
+    <property>
+      <name>openslide.level[2].width</name>
+      <value type="VipsRefString">2993</value>
+    </property>
+    <property>
+      <name>openslide.mpp-x</name>
+      <value type="VipsRefString">0.52600000000000002</value>
+    </property>
+    <property>
+      <name>openslide.mpp-y</name>
+      <value type="VipsRefString">0.52600000000000002</value>
+    </property>
+    <property>
+      <name>openslide.objective-power</name>
+      <value type="VipsRefString">20</value>
+    </property>
+    <property>
+      <name>openslide.vendor</name>
+      <value type="VipsRefString">aperio</value>
+    </property>
+    <property>
+      <name>tiff.ImageDescription</name>
+      <value type="VipsRefString">Aperio Image Library v12.4.7 
+100221x84811 [1374,4319 95805x80492] (256x256) -&gt; 47902x40246 JPEG/RGB Q=70;Aperio Leica Biosystems GT450 DX v1.2.4 
+100221x84811 [0,0,100221x84811] (256x256) JPEG/YCC Q=91|CalibrationAverageBlue = 174.84729003906|CalibrationAverageGreen = 168.87028503418|CalibrationAverageRed = 145.28970336914|Date = |Exposure Scale = 0.000001|Exposure Time = 8|Filtered = 3|Focus Offset = -0.500000|Gamma = 2.2|Left = 22.306797027588|Rack = 3|ScanScope ID = |ScannerType = GT450 DX|SessionMode = PDX|Slide = 11|StripeWidth = 4096|Time = |Time Zone = |Top = 43.706665039062|Scan Warning = NONE|BigTIFF = true|OriginalWidth = 100221|OriginalHeight = 84811|OriginalAppMag = 40|AppMag = 20|OriginalMPP = 0.2630|MPP = 0.5260|ICC Profile = Segue_v3</value>
+    </property>
+    <property>
+      <name>tiff.ResolutionUnit</name>
+      <value type="VipsRefString">inch</value>
+    </property>
+    <property>
+      <name>slide-associated-images</name>
+      <value type="VipsRefString">95805x80492, macro, thumbnail</value>
+    </property>
+    <property>
+      <name>vips-sequential</name>
+      <value type="gint">1</value>
+    </property>
+  </properties>
+</image>
