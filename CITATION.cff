@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: Balcı
+    given-names: Serdar
+    orcid: https://orcid.org/0000-0002-7852-3851
+title: "Pancreatic Ductal Adenocarcinoma, Adrenal Gland Invasion / Pankreatik Duktal Adenokarsinom Adrenal Bez İnvazyonu"
+version: 1.0.0
+date-released: 2025-11-13
+url: "https://github.com/pathologyatlas/PDAC-adrenal-invasion"
+repository-code: "https://github.com/pathologyatlas/PDAC-adrenal-invasion"
+license: MIT
+keywords:
+  - pathology
+  - digital pathology
+  - whole slide image
+  - virtual microscopy
+  - Pancreatic Ductal Adenocarcinoma, Adrenal Gland Invasion
+  - Pankreatik Duktal Adenokarsinom Adrenal Bez İnvazyonu
+abstract: "Digital pathology whole slide images for Pancreatic Ductal Adenocarcinoma, Adrenal Gland Invasion / Pankreatik Duktal Adenokarsinom Adrenal Bez İnvazyonu"
